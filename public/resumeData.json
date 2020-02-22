@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Tanmayee Kalluri",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "I am a software enthusiast with experience in Java, JavaScript, ReactJs, Node.js and AWS. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "tanmayee7@gmail.com",
+    "phone": "240-888-1592",
+    "address": {
+      "street": "63, Apt 2, Saint Germain Street",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02115"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/tanmayee-kalluri",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tankalluri",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Northeastern University",
+        "degree": "Masters in Computer Information Systems",
+        "graduated": "May 2020",
+        "description": "Relevant Courses - Web Development, Multithreaded and Parallel Programming, Cloud Computing, Algorithms, Object Oriented Programming  "
+      },
+      {
+        "school": "GITAM University",
+        "degree": "Bachelors in Computer Science and Engineering",
+        "graduated": "April 2016",
+        "description": "Relevant Courses - Web Development, Data Structures and Algorithms, Computer Networks, Computer Architecture, Operating Systems"
+      }
+    ],
+    "work": [
+      {
+        "company": "Design Studio",
+        "title": "Senior JavaScript Developer",
+        "years": "Nov 2019 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Verizon",
+        "title": "JavaScript Developer",
+        "years": "March 2016 - June 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Title",
+        "category": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "image": "test.jpg",
+        "url": ""
+      },
+      {
+        "title": "Title",
+        "category": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "image": "test.jpg",
+        "url": ""
+      },
+      {
+        "title": "Title",
+        "category": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "image": "test.jpg",
+        "url": ""
+      },
+      {
+        "title": "Title",
+        "category": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+        "image": "test.jpg",
+        "url": ""
+      }
+    ]
+  }
+}
