@@ -1,16 +1,16 @@
 {
   "main": {
     "name": "Tanmayee Kalluri",
-    "description": "",
+    "description": "Aspiring Software Engineer with 3 years of Full Stack development experience",
     "image": "profilepic.jpg",
     "bio": "I am a software enthusiast with experience in Java, JavaScript, ReactJs, Node.js and AWS. ",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "tanmayee7@gmail.com",
     "phone": "240-888-1592",
     "address": {
-      "street": "63, Apt 2, Saint Germain Street",
-      "city": "Boston",
-      "state": "MA",
+      "street": "Boston",
+      "city": "Massachusetts",
+      "state": "USA",
       "zip": "02115"
     },
     "website": "",
@@ -34,7 +34,7 @@
       {
         "school": "Northeastern University",
         "degree": "Masters in Computer Information Systems",
-        "graduated": "May 2020",
+        "graduated": "Aug 2020",
         "description": "Relevant Courses - Web Development, Multithreaded and Parallel Programming, Cloud Computing, Algorithms, Object Oriented Programming  "
       },
       {
@@ -48,20 +48,20 @@
       {
         "company": "Northeastern University",
         "title": "Graduate Teaching Assistant",
-        "years": "Jan 2020 - Present",
-        "description": "Teaching Assistant for the course Web Development Engineering teaching frontend technologies to Grad Students."
+        "years": "Jan 2020 - Aug 2020",
+        "description": "Teaching Assistant for courses Web Development Engineering and Cloud Computing."
       },
       {
         "company": "Ahold Delhaize",
         "title": "Software Developer Co-op",
         "years": "Jun 2019 - Dec 2019",
-        "description": "Worked on an internal projects dashboard and a frictionless store  applications for Ahold USA's brand Stop&Shop employing ReactJs, Node.js and Azure DevOps."
+        "description": "Worked on an internal projects dashboard and a frictionless store  applications for Ahold USA's brand Stop&Shop employing Java, ReactJs, Node.js and Azure DevOps."
       },
       {
         "company": "Verizon",
-        "title": "Software Developer",
+        "title": "Software Engineer 2",
         "years": "Jul 2016 - Aug 2018",
-        "description": "Worked on a internally used web application built on ReactJs and Spring Boot and used by Verizon's Network Planners and Engineers."
+        "description": "Worked on a internally used web application built on ReactJs and Java Spring Boot framework and used by Verizon's Network Planners and Engineers."
       }
     ],
     "skills": [

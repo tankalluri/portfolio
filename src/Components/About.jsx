@@ -34,13 +34,12 @@ class About extends Component {
                                     <span>{street}<br />
                                         {city} {state}, {zip}
                                     </span><br />
-                                    <span>{phone}</span><br />
-                                    <span>{email}</span>
                                 </p>
                             </div>
                             <div className="columns download">
-                                <p>
-                                    <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                                <p className="address">
+                                   <span>{phone}</span><br />
+                                   <span>{email}</span>
                                 </p>
                             </div>
                         </div>
